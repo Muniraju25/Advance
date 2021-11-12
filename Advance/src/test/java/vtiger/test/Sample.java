@@ -7,5 +7,6 @@ public class Sample {
    public void samTest()
    {
 	   System.out.println("Regression");
+	   System.out.println(" HI ");
    }
 }
